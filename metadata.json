@@ -1,0 +1,8 @@
+{
+  "name": "BridgeEdu",
+  "description": "A comprehensive education platform connecting students and teachers with high-quality courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
